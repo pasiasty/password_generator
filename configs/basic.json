@@ -1,0 +1,4 @@
+{
+    "password_length": 8,
+    "allowed_letters": "abcdefghijklmnopqrstuvwxyz"
+}
